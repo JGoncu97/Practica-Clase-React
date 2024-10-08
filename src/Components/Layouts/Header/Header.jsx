@@ -1,3 +1,6 @@
+import { Navbar } from '../../UI/Navbar/Navbar';
+import './Style.css'
+
 
 
 export const HeaderPage = () =>{
@@ -6,13 +9,7 @@ export const HeaderPage = () =>{
        
         <header>
             <h1>Jose Gregorio Gonzalez Cuellar</h1>
-            <nav>
-                <ul>
-                    <li><a href="">¿Quien soy?</a></li>
-                    <li><a href="">Mi familia</a></li>
-                    <li><a href="">Mis estudios</a></li>
-                </ul>
-            </nav>
+            <Navbar/>
         </header>
         
     );

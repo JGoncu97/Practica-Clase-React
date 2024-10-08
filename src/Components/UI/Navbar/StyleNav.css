@@ -1,0 +1,14 @@
+nav{
+    width: 22rem;
+}
+
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a{
+    color: black;
+}
