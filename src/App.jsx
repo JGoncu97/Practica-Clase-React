@@ -1,5 +1,5 @@
 
-import {HeaderPage} from './Components/Header/Header'
+import {HeaderPage} from './Components/Layouts/Header/Header'
 
 
 export const App = () => {
