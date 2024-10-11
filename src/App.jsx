@@ -1,5 +1,6 @@
 
 import {HeaderPage} from './Components/Layouts/Header/Header'
+import { Main } from './Components/Layouts/Main/Main'
 
 
 export const App = () => {
@@ -7,9 +8,10 @@ export const App = () => {
 
   return (
     <>
-      <HeaderPage/>
-        <h3>Hellow World!!!</h3>
-      
+    
+    
+    <Main/>
+  
     </>
   )
 }

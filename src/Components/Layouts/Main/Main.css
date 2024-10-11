@@ -1,0 +1,11 @@
+.main{
+    flex-direction: column;
+    width: 80vw;
+    height: 100%;
+    margin-left: 7rem;
+    background-color: gray;
+    padding: 0;
+    overflow: hidden;
+    
+}
+

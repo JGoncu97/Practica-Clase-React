@@ -1,0 +1,22 @@
+.Footer{
+    
+    width: 100%;
+    text-align: center;
+    background-color: #168820;
+    align-content: center;
+    align-items: center;
+    height: 5% ;
+    color: white;
+    padding: 1rem;
+}
+
+.IconsF{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.IconsF img{
+    height: 50px;
+    width: 50px;
+}

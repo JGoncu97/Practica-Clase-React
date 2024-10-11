@@ -1,0 +1,15 @@
+.Hobby{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    width: 30rem;
+    height: 70px;
+    background-color: #4ade56;
+    padding: 1rem;
+    margin-bottom: 0.4rem;
+}
+
+.Hobby p{
+    width: 300px;
+}

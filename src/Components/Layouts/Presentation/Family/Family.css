@@ -1,0 +1,26 @@
+.MyFamily{
+    text-align: center;
+    background-color: #bbf7bf;
+    padding: 2rem;
+    height: 26vh;
+}
+
+.MyFamily p{
+    width: 100%;
+    height: 100px;
+    font-weight: bold;
+    color: #052e0a;
+}
+
+.MyFamily h3{
+    color: #052e0a;
+}
+
+.separator {
+    display: block;
+    width: 100%; 
+    height: 2px; 
+    background-color: #000; 
+    margin: 1rem 0; 
+    border-radius: 2px; 
+}

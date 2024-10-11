@@ -9,6 +9,6 @@ nav ul{
 
 }
 
-a{
-    color: black;
+li a{
+    color: rgb(255, 255, 255);
 }

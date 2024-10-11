@@ -1,0 +1,18 @@
+.MyStudy{
+    text-align: center;
+    background-color: #bbf7bf;
+    padding: 2rem;
+    height: 20%;
+}
+
+.imgDev{
+    height: auto;
+    width: 300px;
+    border-radius: 1rem;
+    box-shadow: 5px 8px 5px rgba(0, 0, 0, 0.5); 
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+}

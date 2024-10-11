@@ -1,13 +1,14 @@
 header{
     display: flex;
-    width: 100vw;
+    width: 101.9%;
     justify-content: space-around;
-    background-color: rgb(64, 146, 218);
-    color: black;
+    background-color: #168820;
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     align-content: center;
     align-items: center;
-}
+    padding: 1rem;
+    }
 
 header h1{
     font-size: larger;
